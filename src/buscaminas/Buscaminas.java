@@ -1,4 +1,4 @@
-package Calculadora;
+package buscaminas;
 
 import javax.swing.*;
 import java.awt.*;
